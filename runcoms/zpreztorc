@@ -40,6 +40,7 @@ zstyle ':prezto:load' pmodule \
   'ssh' \
   'rsync' \
   'completion' \
+<<<<<<< HEAD
   'homebrew' \
   'osx' \
   'git' \
@@ -48,6 +49,9 @@ zstyle ':prezto:load' pmodule \
   'tmux' \
   'yum' \
   'python' \
+=======
+  'history-substring-search' \
+>>>>>>> b14aca307d9f27077ae4d216ed36666953feb1d6
   'prompt'
 
 #
